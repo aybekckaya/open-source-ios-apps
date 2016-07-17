@@ -5175,7 +5175,7 @@
     "license": "mit"
   },
    {
-    "title": "Backgammon (Multiplayer)",
+    "title": "Backgammon (Single device multiplayer)",
     "category": "games",
     "description": "Backgammon game that you can play with your friend on the same device.",
     "source": "https://github.com/aybekckaya/Backgammon-IOS",
